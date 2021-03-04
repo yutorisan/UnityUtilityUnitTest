@@ -16,4 +16,9 @@
   <ItemGroup>
     <Folder Include="ChainingAssertion\" />
   </ItemGroup>
+  <ItemGroup>
+    <Reference Include="UnityUtility">
+      <HintPath>..\..\UnityUnility\UnityUnility\bin\Debug\UnityUtility.dll</HintPath>
+    </Reference>
+  </ItemGroup>
 </Project>
